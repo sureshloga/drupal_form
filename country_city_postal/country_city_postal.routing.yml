@@ -1,0 +1,7 @@
+country_city_postal.form:
+  path: '/country-city-postal'
+  defaults:
+    _form: '\Drupal\country_city_postal\Form\CountryCityPostalForm'
+    _title: 'Country City Postal Form'
+  requirements:
+    _permission: 'access content'
